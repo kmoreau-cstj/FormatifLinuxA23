@@ -1,0 +1,22 @@
+Linux est un système d’exploitation libre et open source de type Unix, fondé sur le noyau Linux créé en 1991 par Linus Torvalds, un étudiant en informatique de l’Université d’Helsinki.
+Linux est le résultat de la convergence de deux projets antérieurs : le projet GNU, initié en 1983 par Richard Stallman, qui visait à créer un système d’exploitation entièrement libre et compatible avec Unix, et le projet Minix, développé par Andrew Tanenbaum, qui était une version simplifiée et pédagogique d’Unix.
+
+Le projet GNU a fourni la plupart des composants logiciels nécessaires à un système d’exploitation, tels que le compilateur C, l’interpréteur de commandes, les bibliothèques, les utilitaires, etc. 
+Cependant, il lui manquait un élément essentiel : le noyau, qui est la partie du système qui gère les ressources matérielles et les processus. 
+Le projet GNU avait commencé à développer son propre noyau, appelé Hurd, mais il était encore loin d’être achevé et fonctionnel.
+
+C’est là qu’intervient Linus Torvalds, qui, inspiré par Minix, décide de créer son propre noyau, qu’il nomme Linux, en combinant son prénom et le suffixe -x de Unix. 
+Torvalds publie la première version de Linux, la version 0.01, en septembre 1991, sur le groupe de discussion Usenet comp.os.minix. 
+Il invite les autres utilisateurs de Minix à tester et à améliorer son noyau, qui est distribué sous la licence publique générale GNU, permettant ainsi à quiconque de le modifier et de le redistribuer librement.
+
+Le noyau Linux attire rapidement l’attention et le soutien de nombreux programmeurs, qui contribuent à son développement en ajoutant des fonctionnalités, des corrections de bugs, des pilotes de périphériques, etc.
+Le noyau Linux devient ainsi compatible avec de nombreuses architectures de processeurs, tels que x86, x86-64, ARM, MIPS, PowerPC, etc. Il prend également en charge le multitâche, le multi-utilisateur, le réseau, le système de fichiers extensible, etc. 
+Le noyau Linux atteint la version 1.0 en mars 1994, et la version stable actuelle est la version 6.4.3, sortie en juillet 2023.
+
+Le noyau Linux, combiné avec les logiciels GNU et d’autres logiciels libres, forme un système d’exploitation complet, que l’on appelle généralement Linux, mais que certains préfèrent appeler GNU/Linux, pour reconnaître la contribution du projet GNU.
+Il existe de nombreuses variantes de ce système d’exploitation, appelées distributions Linux, qui proposent des choix différents de logiciels, d’interfaces graphiques, de gestionnaires de paquets, de configurations, etc. Parmi les distributions Linux les plus populaires, on peut citer Ubuntu, Debian, Fedora, Red Hat, Mint, Arch, etc.
+
+Linux est un système d’exploitation très utilisé dans le monde de l’informatique, notamment sur les serveurs, les superordinateurs, les systèmes embarqués, les téléphones portables, etc. 
+Il est apprécié pour sa stabilité, sa sécurité, sa performance, sa flexibilité et sa gratuité. 
+Il est également considéré comme un symbole du mouvement du logiciel libre, qui défend les principes de liberté, de coopération et de partage dans le domaine du logiciel.
+Linux est donc plus qu’un simple système d’exploitation, c’est une philosophie et une communauté.
